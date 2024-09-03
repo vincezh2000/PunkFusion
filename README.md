@@ -21,7 +21,7 @@ Our goal is to push the boundaries of NFT creation and generative modeling, demo
 
 ### Project Overview
 
-I am actively applying various techniques to enhance the performance of PunkFusion. Below is a sample result after training for 100 epochs:
+I am actively applying various techniques to enhance the performance of PunkFusion. Below are some new creations from our model:
 
 ![Current Result](https://github.com/user-attachments/assets/4e1ef99f-9a86-4e82-a656-2d6edfef6ccb)
 
