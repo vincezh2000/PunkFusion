@@ -24,6 +24,8 @@ Our goal is to push the boundaries of NFT creation and generative modeling, demo
 I am actively applying various techniques to enhance the performance of PunkFusion. Below are some new creations from our model:
 
 ![Current Result](https://github.com/user-attachments/assets/4e1ef99f-9a86-4e82-a656-2d6edfef6ccb)
+![image](https://github.com/user-attachments/assets/b3859988-0795-40ca-bc34-6f3536b700a9)
+
 
 ### Disclaimer
 
