@@ -25,6 +25,7 @@ I am actively applying various techniques to enhance the performance of PunkFusi
 
 ![Current Result](https://github.com/user-attachments/assets/4e1ef99f-9a86-4e82-a656-2d6edfef6ccb)
 ![image](https://github.com/user-attachments/assets/b3859988-0795-40ca-bc34-6f3536b700a9)
+![image](https://github.com/user-attachments/assets/19f5cb2f-61f2-4efa-a3e8-ce82d8879751)
 
 
 ### Disclaimer
