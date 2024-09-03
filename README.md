@@ -3,7 +3,7 @@
 🚧 **Project Status:** Under Construction 🚧
 
 ### To-Do List:
-- [ ] Add Exponential Moving Average (EMA)
+- [x] Add Exponential Moving Average (EMA)
 - [ ] Integrate Multi-Modality
 - [ ] Implement Classifier Guidance and CFG (Class-Factorized Guidance)
 - [ ] Incorporate Huber Loss
