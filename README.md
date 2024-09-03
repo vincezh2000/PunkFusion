@@ -2,9 +2,11 @@
 
 The Project is under construction.
 Todo:
+Adding EMA
+Add Multi-modality
 Adding Classifier Guidance and CFG
 Adding Huber Loss
-Add Multi-modality
+
 Add DiT
 Add RoPE
 Add Flow Matching
