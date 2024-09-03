@@ -21,8 +21,3 @@ I am actively applying various techniques to enhance the performance of PunkFusi
 
 ![Current Result](https://github.com/user-attachments/assets/4e1ef99f-9a86-4e82-a656-2d6edfef6ccb)
 
-### Ethereum Price Tracker
-
-Keep track of the latest Ethereum price:
-
-[![Ethereum Price](https://cryptoprices.cc/eth.png)](https://cryptoprices.cc/)
