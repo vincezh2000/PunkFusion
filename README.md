@@ -4,7 +4,11 @@
 
 ### Project Introduction
 
-PunkFusion is a cutting-edge demo that combines the world of NFTs with the latest in generative AI technology. Drawing inspiration from the iconic CryptoPunks, this project leverages a vast dataset of punk-style images to explore new possibilities at the intersection of digital art and AI. Our goal is to push the boundaries of NFT creation and generative modeling, showcasing how these two technologies can be fused to create unique and innovative digital assets.
+PunkFusion is a groundbreaking demo that combines the distinctive aesthetics of CryptoPunks with the power of Ethereum and the latest in generative AI technology. Drawing inspiration from the original collection of 10,000 algorithmically generated 24x24 pixel art characters, PunkFusion explores new frontiers at the intersection of blockchain technology and AI-driven creativity.
+
+Each CryptoPunk is not only a unique digital artwork but also a symbol of the innovation brought about by Ethereum’s smart contracts, which enable trustless ownership and exchange of these assets. By integrating the decentralized nature of Ethereum with state-of-the-art generative AI, PunkFusion showcases how the future of digital art can evolve, creating new and unique assets that resonate with the NFT and blockchain communities.
+
+Our goal is to push the boundaries of NFT creation and generative modeling, demonstrating how these two technologies can be fused to create unique and innovative digital assets.
 
 ### To-Do List:
 - [x] Add Exponential Moving Average (EMA)
@@ -21,3 +25,6 @@ I am actively applying various techniques to enhance the performance of PunkFusi
 
 ![Current Result](https://github.com/user-attachments/assets/4e1ef99f-9a86-4e82-a656-2d6edfef6ccb)
 
+### Disclaimer
+
+This project is for educational purposes only. All NFT assets referenced or utilized in this project are sourced from [CryptoPunks](https://cryptopunks.app/) and are the property of their respective owners.
