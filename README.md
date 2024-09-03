@@ -1,16 +1,18 @@
 # PunkFusion
 
-The Project is under construction.
-Todo:
-Adding EMA
-Add Multi-modality
-Adding Classifier Guidance and CFG
-Adding Huber Loss
+🚧 **Project Status:** Under Construction 🚧
 
-Add DiT
-Add RoPE
-Add Flow Matching
+### To-Do List:
+- [ ] Add Exponential Moving Average (EMA)
+- [ ] Integrate Multi-Modality
+- [ ] Implement Classifier Guidance and CFG (Class-Factorized Guidance)
+- [ ] Incorporate Huber Loss
+- [ ] Add DiT (Diffusion Transformer)
+- [ ] Integrate RoPE (Rotary Position Embedding)
+- [ ] Implement Flow Matching
 
-I am applying more techniques to improve the performance.
-Current result trained for 100 epochs.
-![image](https://github.com/user-attachments/assets/dc8414db-0a9f-4b85-96b8-bf1840afb8e2)
+### Project Overview
+
+I am actively applying various techniques to enhance the performance of PunkFusion. Below is a sample result after training for 100 epochs:
+
+![Current Result](https://github.com/user-attachments/assets/4e1ef99f-9a86-4e82-a656-2d6edfef6ccb)
