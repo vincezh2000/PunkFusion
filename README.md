@@ -20,6 +20,11 @@ Below are some new creations from our model:
 
 <img width="521" alt="image" src="https://github.com/user-attachments/assets/9e280f49-4fb8-4a7f-83d5-dcc19ccbb900">
 
+Model Weights can be downloaded here:
+
+
+https://huggingface.co/vince2000/PunkFusion/tree/main
+
 
 ### Installation
 
