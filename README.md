@@ -23,7 +23,7 @@ Below are some new creations from our model:
 Model Weights can be downloaded here:
 
 
-https://huggingface.co/vince2000/PunkFusion/tree/main
+https://huggingface.co/vince2000/PunkFusion/
 
 
 ### Installation
