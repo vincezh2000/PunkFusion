@@ -28,6 +28,8 @@ I am actively applying various techniques to enhance the performance of PunkFusi
 2. Install PyTorch and the required dependencies. The experiment was tested with CUDA 12.1 and PyTorch 2.4.0:
 
    ```bash
+   
+   pip3 install torch torchvision torchaudio # if you have CUDA 12.1 and a linux machine
    pip install -r requirements.txt
 
 3. For data collection, run the crawler script. Please note that it may take around 15 hours to complete due to the relay setup, which ensures our crawler avoids detection:
