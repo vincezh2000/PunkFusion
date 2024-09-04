@@ -36,17 +36,24 @@ Below are some new creations from our model:
    pip3 install torch torchvision torchaudio # if you have CUDA 12.1 and a linux machine
    pip install -r requirements.txt
 
-3. For data collection, run the crawler script. Please note that it may take around 15 hours to complete due to the relay setup, which ensures our crawler avoids detection:
+3. You can download the dataset from Hugging Face or ModelScope (recommended if you are in mainland China).
+
+   
+   Here is the download link: https://huggingface.co/datasets/vince2000/crypto_punks
+
+   CLI to download using ModelScope
+   ```bash
+   git lfs install
+   git clone https://www.modelscope.cn/datasets/vincezh2000/crypto_punks.git # modelscope
+   tar -xvf punks.tar
+
+4. Alternatively, you can run the crawler script. Please note that it may take around 15 hours to complete due to the relay setup, which ensures our crawler avoids detection:
 
    ```bash
    python crawler.py
 
-4. Alternatively, you can download the dataset from Hugging Face or ModelScope (recommended if you are in mainland China).
 
-   
-   Here is the download link: [Insert Link Here]
-
-6. Once you have the dataset, start training the model:
+5. Once you have the dataset, start training the model:
 
    ```bash
    python train_punk.py
