@@ -5,8 +5,9 @@ import random
 import requests
 from bs4 import BeautifulSoup
 
-output_dir = "/data/PunkFusion/crypto_data"
-total_punks = 9999
+output_dir = "./crypto_data"
+total_punks = 10000
+
 def download_punk(punk_id):
     url = f"https://cryptopunks.app/cryptopunks/details/{punk_id}"
 
@@ -60,15 +61,16 @@ def download_punk(punk_id):
     except Exception as e:
         print(f"Error processing Punk {punk_id}: {e}")
 
-    # 添加随机延迟，避免过于频繁的请求
+    # Random relay
     time.sleep(random.uniform(1, 3))
 
 
-# 主函数：下载所有Punk
-for punk_id in range(total_punks):
-    try:
-        download_punk(punk_id)
-    except Exception as e:
-        print(f"Unexpected error with Punk {punk_id}: {e}")
+# main
+if __name__ == '__main__':
+    for punk_id in range(total_punks):
+        try:
+            download_punk(punk_id)
+        except Exception as e:
+            print(f"Unexpected error with Punk {punk_id}: {e}")
 
-print("All Punks downloaded.")
+    print("All Punks downloaded.")
