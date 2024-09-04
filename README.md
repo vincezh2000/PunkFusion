@@ -16,12 +16,7 @@ PunkFusion is based on a custom-built **Diffusion model**, specifically designed
   
 2. **Model Development**: From scratch, we built a Diffusion model tailored to CryptoPunk-style image generation. This model has been trained using our curated dataset and is designed to reproduce the distinctive characteristics of CryptoPunks while allowing for creative variations. We have also released the model’s weights as open-source, enabling others to build on our work and further explore generative NFT art.
 
-By combining these two elements—advanced data collection techniques and a specialized Diffusion model—PunkFusion is pushing the limits of what can be achieved in generative NFT art, opening new possibilities for innovation in the blockchain and AI space.
-
-
-### Project Overview
-
-I am actively applying various techniques to enhance the performance of PunkFusion. Below are some new creations from our model:
+Below are some new creations from our model:
 
 <img width="521" alt="image" src="https://github.com/user-attachments/assets/9e280f49-4fb8-4a7f-83d5-dcc19ccbb900">
 
@@ -63,7 +58,7 @@ Based on our experiments, with the default settings, you can achieve stable resu
 - [ ] Integrate Multi-Modality
 - [ ] Implement Classifier Guidance and CFG (Class-Factorized Guidance)
 - [ ] Incorporate Huber Loss
-- [ ] Add DiT (Diffusion Transformer)
+- [ ] Add new architechture-DiT (Diffusion Transformer)
 - [ ] Integrate RoPE (Rotary Position Embedding)
 - [ ] Implement Flow Matching
 
