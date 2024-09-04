@@ -27,6 +27,26 @@ I am actively applying various techniques to enhance the performance of PunkFusi
    conda create -n punk python=3.11
    conda activate punk
 
+2. Install PyTorch and the required dependencies. The experiment was tested with CUDA 12.1 and PyTorch 2.4.0:
+
+   ```bash
+   pip install -r requirements.txt
+
+3. For data collection, run the crawler script. Please note that it may take around 15 hours to complete due to the relay setup, which ensures our crawler avoids detection:
+
+   ```bash
+   python crawler.py
+
+4. Alternatively, you can download the dataset from Hugging Face or ModelScope (recommended if you are in mainland China). \\
+   Here is the download link: [Insert Link Here]
+
+5. Once you have the dataset, start training the model:
+
+   ```bash
+   python train_punk.py
+
+Based on our experiments, with the default settings, you can achieve stable results after approximately 200 epochs.
+
 ### To-Do List:
 - [x] Add Exponential Moving Average (EMA)
 - [ ] Integrate Multi-Modality
