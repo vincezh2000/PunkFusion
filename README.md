@@ -1,6 +1,4 @@
-# PunkFusion
-
-🚧 **Project Status:** Under Construction 🚧
+# PunkFusion 
 
 ### Project Introduction
 
