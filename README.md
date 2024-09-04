@@ -10,6 +10,17 @@ Our goal is to push the boundaries of NFT creation and generative modeling, demo
 
 ### Project Overview
 
+PunkFusion is based on a custom-built **Diffusion model**, specifically designed to generate CryptoPunk-style assets. Our primary contributions are twofold:
+
+1. **Data Collection**: We developed a comprehensive method for collecting and curating high-quality data related to the CryptoPunks collection. This includes automated crawlers and data processing scripts, which we have made publicly available. Additionally, we offer a ready-to-use dataset to facilitate further research and experimentation.
+  
+2. **Model Development**: From scratch, we built a Diffusion model tailored to CryptoPunk-style image generation. This model has been trained using our curated dataset and is designed to reproduce the distinctive characteristics of CryptoPunks while allowing for creative variations. We have also released the model’s weights as open-source, enabling others to build on our work and further explore generative NFT art.
+
+By combining these two elements—advanced data collection techniques and a specialized Diffusion model—PunkFusion is pushing the limits of what can be achieved in generative NFT art, opening new possibilities for innovation in the blockchain and AI space.
+
+
+### Project Overview
+
 I am actively applying various techniques to enhance the performance of PunkFusion. Below are some new creations from our model:
 
 <img width="521" alt="image" src="https://github.com/user-attachments/assets/9e280f49-4fb8-4a7f-83d5-dcc19ccbb900">
