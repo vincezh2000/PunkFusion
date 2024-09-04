@@ -10,15 +10,6 @@ Each CryptoPunk is not only a unique digital artwork but also a symbol of the in
 
 Our goal is to push the boundaries of NFT creation and generative modeling, demonstrating how these two technologies can be fused to create unique and innovative digital assets.
 
-### To-Do List:
-- [x] Add Exponential Moving Average (EMA)
-- [ ] Integrate Multi-Modality
-- [ ] Implement Classifier Guidance and CFG (Class-Factorized Guidance)
-- [ ] Incorporate Huber Loss
-- [ ] Add DiT (Diffusion Transformer)
-- [ ] Integrate RoPE (Rotary Position Embedding)
-- [ ] Implement Flow Matching
-
 ### Project Overview
 
 I am actively applying various techniques to enhance the performance of PunkFusion. Below are some new creations from our model:
@@ -28,6 +19,22 @@ I am actively applying various techniques to enhance the performance of PunkFusi
 ![image](https://github.com/user-attachments/assets/19f5cb2f-61f2-4efa-a3e8-ce82d8879751)
 ![image](https://github.com/user-attachments/assets/33a57cc7-ff27-41ed-a58d-6e61b45d700c)
 
+### Installation
+
+1. Create and activate the Conda environment:
+
+   ```bash
+   conda create -n punk python=3.11
+   conda activate punk
+
+### To-Do List:
+- [x] Add Exponential Moving Average (EMA)
+- [ ] Integrate Multi-Modality
+- [ ] Implement Classifier Guidance and CFG (Class-Factorized Guidance)
+- [ ] Incorporate Huber Loss
+- [ ] Add DiT (Diffusion Transformer)
+- [ ] Integrate RoPE (Rotary Position Embedding)
+- [ ] Implement Flow Matching
 
 
 ### Disclaimer
