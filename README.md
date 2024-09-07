@@ -67,13 +67,9 @@ Based on our experiments, with the default settings, you can achieve stable resu
 
 ### To-Do List:
 - [x] Add Exponential Moving Average (EMA)
-- [ ] Implement Classifier Guidance and CFG (Class-Factorized Guidance)
-- [ ] Integrate Multi-Modality
+- [ ] Integrate Multi-Modality.
 - [ ] Delivered to ETH
-- [ ] Incorporate Huber Loss
-- [ ] Add new architechture-DiT (Diffusion Transformer)
-- [ ] Integrate RoPE (Rotary Position Embedding)
-- [ ] Implement Flow Matching
+- [ ] Add More Model Varient.
 
 
 ### Disclaimer
