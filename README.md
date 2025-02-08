@@ -65,12 +65,6 @@ https://huggingface.co/vince2000/PunkFusion/
 
 Based on our experiments, with the default settings, you can achieve stable results after approximately 200 epochs.
 
-### To-Do List:
-- [x] Add Exponential Moving Average (EMA)
-- [ ] Integrate Multi-Modality.
-- [ ] Delivered to ETH
-- [ ] Add More Model Varient.
-
 
 ### Disclaimer
 
